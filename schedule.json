@@ -1,0 +1,4282 @@
+[
+  {
+    "groupId": "1-мтоэирпо",
+    "groupName": "1 МТОЭиРПО (1 курс)",
+    "course": 1,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Иностр. язык",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Обществознание",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Физкультура",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Биология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Химия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "География",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "1-мчм",
+    "groupName": "1 МЧМ (1 курс)",
+    "course": 1,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Иностр. язык",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Обществознание",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Физкультура",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Химия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Биология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Химия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "География",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "1-сиса",
+    "groupName": "1 СиСА (1 курс)",
+    "course": 1,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Иностр. язык",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Обществознание",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Биология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Химия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 4,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 6,
+            "subject": "География",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "1-эиоээо",
+    "groupName": "1 ЭиОЭЭО (1 курс)",
+    "course": 1,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Иностр. язык",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Обществознание",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Химия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Биология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "География",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "2-мтоэирпо",
+    "groupName": "2 МТОЭиРПО (2 курс)",
+    "course": 2,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Допуски и  посадки",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Тех. механика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Фин. грамотность",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Материаловедение",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Мат. методы",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Допуски и  посадки",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Метрология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Тех. механика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Тех. обслуживание",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ИТ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "ИТ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Мат. методы",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "2-эиоээо",
+    "groupName": "2 ЭиОЭЭО (2 курс)",
+    "course": 2,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Эл. машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Эл. машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Тех. механика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Эл. машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Эл. машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Эл. машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 4,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Эл. машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 6,
+            "subject": "Эл. машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "ИТ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Эл. машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "ИТ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "2мп--мчм-",
+    "groupName": "2МП (МЧМ) (2 курс)",
+    "course": 2,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "История России",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Материаловедение",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Тех. механика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Фин. грамотность",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Чугун",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Физ.химия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Физ.химия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ИТ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Чугун",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "ИТ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Чугун",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "ОМП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ИТ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "2мп--омд-",
+    "groupName": "2МП (ОМД) (2 курс)",
+    "course": 2,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "История России",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Материаловедение",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "СР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Фин. грамотность",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Метрология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Метрология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Тех. процесс ОМД",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Тех. процесс ОМД",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Тех. механика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ИГ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Метрология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "ИТ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "СР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "ИТ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ОМП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "3-тито",
+    "groupName": "3 ТиТО (3 курс)",
+    "course": 3,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Гидравлика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Котельные установки",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "БЖ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 4,
+            "subject": "Гидравлика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "ЭОП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 6,
+            "subject": "Котельные установки",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Философия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Физкультура",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Гидравлика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Котельные установки",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Осн. экономики",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Право",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "БЖ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Котельные установки",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Философия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Гидравлика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Осн. экономики",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Предпринимательство",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "3-тэиоээо",
+    "groupName": "3 ТЭиОЭЭО (3 курс)",
+    "course": 3,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Эл. привод",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "МОС",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Изм. техника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Эл.снабжение",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Эл. привод",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Изм. техника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Фин. грамотность",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "АСУ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Эл. оборудование",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Наладка",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Эл.снабжение",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "МОС",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Право",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Предпринимательство",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Бережл. пр-во",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "АСУ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Эл. оборудование",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Эл.снабжение",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "3-1--мп--мчм-",
+    "groupName": "3(1) МП (МЧМ) (3 курс)",
+    "course": 3,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Чугун",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "ХА",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Метрология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Метрология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Сталь",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Иссл.деятельн.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Иссл.деятельн.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Сталь",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Теплотехника КП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Чугун",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Сталь",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Экология МП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Бережл. пр-во",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Чугун",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Теплотехника КП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Иссл.деятельн.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Сталь",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Чугун",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "3-2--мп--мчм-",
+    "groupName": "3(2) МП (МЧМ) (3 курс)",
+    "course": 3,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "ХА",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Метрология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Теплотехника КП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Сталь",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Иссл.деятельн.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Экология МП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Чугун",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Сталь",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Иссл.деятельн.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Метрология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Сталь",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Чугун",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Теплотехника КП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Бережл. пр-во",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Чугун",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Сталь",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Чугун",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Иссл.деятельн.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "4-мчм",
+    "groupName": "4 МЧМ (4 курс)",
+    "course": 4,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Ростехнадзор",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Ферросплавы",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Ферросплавы",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Эн.сбережение Д/зач.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Ростехнадзор",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "ИТ    Д/зач.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Ферросплавы",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Ростехнадзор",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Ростехнадзор",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Физкультура Д/зач.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Экономика КР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Ростехнадзор",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Ростехнадзор",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Ферросплавы",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Экономика КР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Ростехнадзор",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Ростехнадзор Д/зач.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "4-омд",
+    "groupName": "4 ОМД (4 курс)",
+    "course": 4,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Охрана труда",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Экономика ОМД КР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Тех процессы ОМД КП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Экономика ОМД КР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Тех процессы ОМД КП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "АРМ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Тех процессы ОМД КП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Тех процессы ОМД КП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Автоматизация",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 6,
+            "subject": "Немецкий, французский языки Д/зач.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Автоматизация",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Автоматизация",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Тех процессы ОМД КП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Автоматизация",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Тех процессы ОМД КП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Тех процессы ОМД КП",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Физкультура Д/зач.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Автоматизация",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Англ. язык  Д/зач.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "4-тэиоээо",
+    "groupName": "4 ТЭиОЭЭО (4 курс)",
+    "course": 4,
+    "department": "ПССЗ",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "ТЭиОЭЭО",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Быт.машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Эл.безопаснсть",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ТЭиОЭЭО",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Экономика КР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Быт.машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Эн.сбережение",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Экономика КР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Быт.машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "СР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Эн.сбережение Д/зач.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Быт.машины",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Экономика КР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "СР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "ТЭиОЭЭО Д/зач.",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Эл.безопаснсть",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "СР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "СР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "СР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "1-мдсм",
+    "groupName": "1 МДСМ (1 курс)",
+    "course": 1,
+    "department": "ПКРС",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Обществознание",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Биология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "География",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "ОБ и ЗР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Иностранный язык",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Физкультура",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Химия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 4,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 6,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "1-пм",
+    "groupName": "1 ПМ (1 курс)",
+    "course": 1,
+    "department": "ПКРС",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Обществознание",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Биология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "География",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ОБ и ЗР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 4,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Иностранный язык",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 6,
+            "subject": "Физкультура",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Химия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "1-сорпс",
+    "groupName": "1 СОРПС (1 курс)",
+    "course": 1,
+    "department": "ПКРС",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Обществознание",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Биология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "География",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "ОБ и ЗР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 4,
+            "subject": "Иностранный язык",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Физкультура",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 6,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Химия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "1мптмим",
+    "groupName": "1МПТМиМ (1 курс)",
+    "course": 1,
+    "department": "ПКРС",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 4,
+            "subject": "Обществознание",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 6,
+            "subject": "Биология",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "География",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "ОБ и ЗР",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Химия",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Иностранный язык",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Литература",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Физкультура",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "История",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 4,
+            "subject": "Информатика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Математика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 6,
+            "subject": "Физика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "2-мдсм",
+    "groupName": "2 МДСМ (2 курс)",
+    "course": 2,
+    "department": "ПКРС",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "БЖ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Управление и технология производства дорожно строит. работ (СПТ)",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Управление и технология производства дорожно строит. работ (СПТ)",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Основы бережливого производства",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Управление и технология производства дорожно строит. работ (СПТ)",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Управление и технология производства дорожно строит. работ (СПТ)",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Основы технического черчения",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Управление и технология производства дорожно строит. работ (СПТ)",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Основы технической механики и гидравлики (СПТ)",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Иностр. язык  в проф. деятельности",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "История России",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Основы технического черчения",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Слесарное дело",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Материаловедение",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "2-мк",
+    "groupName": "2 МК (2 курс)",
+    "course": 2,
+    "department": "ПКРС",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Подготовка водителей автомобилей кат. \"С\" (СПТ)",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Материаловедение",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "ФК.00 Физкультура",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Устройство, управление и тех обслуживание крана",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Устройство, управление и тех обслуживание крана",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Основы бережливого производства",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Подготовка водителей автомобилей кат. \"С\" (СПТ)",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Слесарное дело",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Иностр. язык  в проф. деятельности",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Устройство, управление и тех обслуживание крана",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Подготовка водителей автомобилей кат. \"С\" (СПТ)",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "2-сорпс",
+    "groupName": "2 СОРПС (2 курс)",
+    "course": 2,
+    "department": "ПКРС",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Устройство и ремонт подвижного состава",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Материаловедение",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 2,
+            "subject": "Слесарное дело",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Устройство и ремонт подвижного состава",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Устройство и ремонт подвижного состава",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "ПТЭ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Устройство и ремонт подвижного состава",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Устройство и ремонт подвижного состава",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Допуски, посадки и техн. измерения",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ПТЭ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Устройство и ремонт подвижного состава",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "2пм",
+    "groupName": "2ПМ (2 курс)",
+    "course": 2,
+    "department": "ПКРС",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "БЖ",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "ФК.00 Физкультура",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "История России",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Основы технического черчения",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Основы бережливого производства",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Электровоз",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Основы финансовой грамотности",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Устройство и тех обслуживание и ремонт тепловоза",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Устройство и тех обслуживание и ремонт тепловоза",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Устройство и тех обслуживание и ремонт тепловоза",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Электротехника",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Материаловедение",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 3,
+            "subject": "Иностр. язык  в проф. деятельности",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 4,
+            "subject": "Устройство и тех обслуживание и ремонт тепловоза",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 5,
+            "subject": "Устройство и тех обслуживание и ремонт тепловоза",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "Устройство и тех обслуживание и ремонт тепловоза",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "Устройство и тех обслуживание и ремонт тепловоза",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "Электровоз",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "лекция"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": "3-сорпс",
+    "groupName": "3 СОРПС (3 курс)",
+    "course": 3,
+    "department": "ПКРС",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayShort": "Пн",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayShort": "Вт",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayShort": "Ср",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayShort": "Чт",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayShort": "Пт",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayShort": "Сб",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "pairNumber": 1,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 2,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          },
+          {
+            "pairNumber": 3,
+            "subject": "УП.01 Учебная практика",
+            "teacher": "Преподаватель СМТ",
+            "room": "каб. ?",
+            "type": "практика"
+          }
+        ]
+      }
+    ]
+  }
+]

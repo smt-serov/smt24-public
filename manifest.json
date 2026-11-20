@@ -1,0 +1,25 @@
+{
+  "name": "ГАПОУ СО «Серовский металлургический техникум»",
+  "short_name": "Расписание СМТ",
+  "description": "Расписание занятий, звонков и замен ГАПОУ СО «Серовский металлургический техникум»",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#19191a",
+  "theme_color": "#2688eb",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
